@@ -72,6 +72,7 @@
 
   
 
+
 Рисунок 1 - Use Case Diagram.
 
 
